@@ -1,13 +1,14 @@
 # About #
 
 This is a simple repository containing a variety of resources that may be useful
-when using the Ultimaker 2 in the MS in Robotics lab. If you are having trouble
-with the printer or need help getting started check with the MSR lab jobs
-spreadsheet to find out who the current lab tech support person is. If both of
-you are stumped, feel free to contact @jarvisschultz.
+when using the [Ultimaker 2](https://ultimaker.com/en/products/ultimaker-2) in
+the MS in Robotics lab. If you are having trouble with the printer or need help
+getting started check with the MSR lab jobs spreadsheet to find out who the
+current lab tech support person is. If both of you are stumped, feel free to
+contact [@jarvisschultz](https://github.com/jarvisschultz).
 
 **If you have any additions to this repo, feel free to submit a PR or request push
-access from @jarvisschultz**
+access from [@jarvisschultz](https://github.com/jarvisschultz)**
 
 
 # Description of Pages #
